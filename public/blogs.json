@@ -1,0 +1,53 @@
+[
+    {
+      "id": "12345",
+      "cover": "https://i.ibb.co/pjkW5TL/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "title": "The Enigmatic Journey",
+      "author": "Emily Smith",
+      "author_img": "https://i.ibb.co/DYTd3WW/rounded.jpg",
+      "posted_date": "2023-09-12",
+      "reading_time": 2,
+      "hashtags": ["#Mystery", "#Adventure", "#Novel"]
+    },
+    {
+      "id": "67890",
+      "cover": "https://i.ibb.co/pjkW5TL/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "title": "Beyond the Stars",
+      "author": "James Johnson",
+      "author_img": "https://i.ibb.co/DYTd3WW/rounded.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": 3.5,
+      "hashtags": ["#SciFi", "#Exploration", "#Fiction"]
+    },
+    {
+      "id": "23456",
+      "cover": "https://i.ibb.co/pjkW5TL/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "title": "Secrets of the Lost Temple",
+      "author": "Sarah Brown",
+      "author_img": "https://i.ibb.co/DYTd3WW/rounded.jpg",
+      "posted_date": "2023-09-08",
+      "reading_time": 4,
+      "hashtags": ["#Adventure", "#Archaeology", "#Mystery"]
+    },
+    {
+      "id": "78901",
+      "cover": "https://i.ibb.co/pjkW5TL/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "title": "A Tale of Two Kingdoms",
+      "author": "David Miller",
+      "author_img": "https://i.ibb.co/DYTd3WW/rounded.jpg",
+      "posted_date": "2023-09-06",
+      "reading_time": 2.5,
+      "hashtags": ["#Fantasy", "#Adventure", "#Epic"]
+    },
+    {
+      "id": "34567",
+      "cover": "https://i.ibb.co/pjkW5TL/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "title": "The Art of Cooking",
+      "author": "Lisa Anderson",
+      "author_img": "https://i.ibb.co/DYTd3WW/rounded.jpg",
+      "posted_date": "2023-09-04",
+      "reading_time": 1.5,
+      "hashtags": ["#Cookbook", "#Recipes", "#Culinary"]
+    }
+  ]
+  
