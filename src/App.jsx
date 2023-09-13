@@ -13,8 +13,11 @@ const handleAddToBookmark = blog =>{
   const newBookmarks = [...bookmarks,blog]
   setBookmarks(newBookmarks)
 }
-const handleMarkAsRead = time =>{
-setReadingTime(readingTime + time)
+const handleMarkAsRead = (id,time) =>{
+  const newReadingTime = readingTime + time
+setReadingTime(newReadingTime)
+const remaining = bookmarks.filter(bookmark => bookmark.id !== id)
+setBookmarks(remaining)
 }
   return (
     <>
